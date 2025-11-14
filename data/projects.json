@@ -1,0 +1,27 @@
+[
+  {
+    "title": "flix-cli",
+    "description": "A CLI tool to stream/download movies and tv shows.",
+    "link": "https://github.com/DemonKingSwarn/flix-cli"
+  },
+  {
+    "title": "hypr-wellbeing",
+    "description": "App usage logger for Hyprland and Niri wayland compositors.",
+    "link": "https://github.com/DemonKingSwarn/hypr-wellbeing"
+  },
+  {
+    "title": "fzf.cs",
+    "description": "A C# wrapper for fzf commandline utility to make it easier to use it with C#.",
+    "link": "https://github.com/DemonKingSwarn/fzf.cs"
+  },
+  {
+    "title": "Demonic-Lang",
+    "description": "A proof-of-concept language written in C# (WIP).",
+    "link": "https://github.com/DemonKingSwarn/Demonic-Lang"
+  },
+  {
+    "title": "microfetch",
+    "description": "A neofetch/fastfetch like fetch utility written in C#.",
+    "link": "https://github.com/DemonKingSwarn/microfetch"
+  }
+]

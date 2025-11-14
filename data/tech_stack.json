@@ -1,0 +1,4 @@
+{
+  "Languages": ["Python", "GDScript", "Lua", "C#"],
+  "Tools": ["Git", "Docker/Podman", "Vim", "Linux"]
+}
