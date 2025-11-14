@@ -1,0 +1,32 @@
+ ______        ___    ____  _   _ 
+/ ___\ \      / / \  |  _ \| \ | |
+\___ \\ \ /\ / / _ \ | |_) |  \| |
+ ___) |\ V  V / ___ \|  _ <| |\  |
+|____/  \_/\_/_/   \_\_| \_\_| \_|
+                                  
+                                                  
+----------------------------------------------------
+Name: Swarnaditya Singh
+
+Contact:
+  Email: swarnadityasingh@proton.me
+  LinkedIn: https://www.linkedin.com/in/swarnaditya-singh-9bb732205/
+  GitHub: https://github.com/DemonKingSwarn
+  Bluesky: https://bsky.app/profile/demonkingswarn.live
+
+Tech Stack:
+  Languages: Python, GDScript, Lua, C#
+  Tools: Git, Docker/Podman, Vim, Linux
+
+Projects:
+  - flix-cli: A CLI tool to stream/download movies and tv shows.
+    Link: https://github.com/DemonKingSwarn/flix-cli
+  - hypr-wellbeing: App usage logger for Hyprland and Niri wayland compositors.
+    Link: https://github.com/DemonKingSwarn/hypr-wellbeing
+  - fzf.cs: A C# wrapper for fzf commandline utility to make it easier to use it with C#.
+    Link: https://github.com/DemonKingSwarn/fzf.cs
+  - Demonic-Lang: A proof-of-concept language written in C# (WIP).
+    Link: https://github.com/DemonKingSwarn/Demonic-Lang
+  - microfetch: A neofetch/fastfetch like fetch utility written in C#.
+    Link: https://github.com/DemonKingSwarn/microfetch
+----------------------------------------------------
